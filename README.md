@@ -7,9 +7,9 @@
 ------------------------------------------
 
 # Table of Contents:
-## Orders Table                       ## Users Table                   ## Returs table 
- 1. Row ID                             1.Region                         1.Order ID
- 2. Order Priority                     2.Manager                        2.Status
+## Orders Table                      
+ 1. Row ID                            
+ 2. Order Priority                     
  3. Discount
 4. Unit price
 5. Shipping cost
@@ -34,15 +34,24 @@
 25. Sales
 26. Order ID
 
+## Users Table 
+1.Region   
+2.Manager
+
+## Returs table
+1.Order ID
+2.Status
+--------------------------------------
+
 # ETL:
 ![Screenshot 2024-12-26 225931](https://github.com/user-attachments/assets/188981c7-b377-440f-8198-ba4f2fa3d0db)
 # Data modelling
 ![Screenshot 2024-12-26 222851](https://github.com/user-attachments/assets/abfc5c85-dec5-4d45-b9e9-93dae60afecb)
-#                                                  Dashboard
-# With Filtering 
+# Dashboard
+## With Filtering 
 ![Screenshot 2024-12-26 221957](https://github.com/user-attachments/assets/4e7575b3-7b56-43df-8ad9-c64471ed9363)
 
-# Without Filtering 
+## Without Filtering 
 ![Screenshot 2024-12-26 222102](https://github.com/user-attachments/assets/f4cb10f7-92f5-4870-a57b-33571411dd0b)
 
 
