@@ -2,7 +2,8 @@
 
 # Data Sources
  The primary dataset used for this analysis is the "sales raw.xlsx" file, containing 3 table such as orders table, returns table ,users table .
-- <a href="">Dataset</a>
+- <a href="https://github.com/gkarthik333/Sales-Excel-Dashboard-/blob/main/Sales%20Raw%20data.xlsx">Dataset</a>
+
 ------------------------------------------
 
 # Table of Contents:
@@ -32,5 +33,18 @@
 24. Quantity Order
 25. Sales
 26. Order ID
+
+# ETL:
+![Screenshot 2024-12-26 225931](https://github.com/user-attachments/assets/188981c7-b377-440f-8198-ba4f2fa3d0db)
+# Data modelling
+![Screenshot 2024-12-26 222851](https://github.com/user-attachments/assets/abfc5c85-dec5-4d45-b9e9-93dae60afecb)
+# Dashboard
+With Filtering 
+![Screenshot 2024-12-26 222102](https://github.com/user-attachments/assets/8ad7da6d-ad74-47c9-a903-22df39288cb4)
+
+Without Filtering 
+![Screenshot 2024-12-26 222102](https://github.com/user-attachments/assets/f4cb10f7-92f5-4870-a57b-33571411dd0b)
+
+
 
 
